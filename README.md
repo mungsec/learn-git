@@ -1,4 +1,5 @@
 Hello World!
 
 I'm mungsec 😊
-[![mungsec](https://github-readme-stats.vercel.app/api/pin/?username=mungsec&repo=learn-git)](https://github.com/mungsec/learn-git)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mungsec)](https://github.com/mungsec/github-readme-stats)
